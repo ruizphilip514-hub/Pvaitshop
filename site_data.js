@@ -63,7 +63,15 @@ var categories = [
             "GitHub Account",
             "Verified Tinder Account",
             " Facebook Account",
-            "Facebook Video Selfie",
+            "Facebook Video Selfie"
+        ]
+    },
+    {
+        "name": "Social",
+        "slug": " Social",
+        "description": "",
+        "content": "<p><br></p>",
+        "items": [
             "Instagram Accounts"
         ]
     }
@@ -147,7 +155,7 @@ var products = [
         "title": "Buy Instagram Accounts",
         "display_title": "Instagram Accounts",
         "slug": "instagram-account",
-        "category": "Accounts",
+        "category": "Social",
         "image": "",
         "image_title": "New Produc",
         "min_price": 9.99,
