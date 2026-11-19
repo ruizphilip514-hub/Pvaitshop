@@ -63,7 +63,8 @@ var categories = [
             "GitHub Account",
             "Verified Tinder Account",
             " Facebook Account",
-            "Facebook Video Selfie"
+            "Facebook Video Selfie",
+            "Instagram Accounts"
         ]
     }
 ];
@@ -140,6 +141,34 @@ var landingPageData = {
 
 // All Products Data
 var products = [
+    {
+        "id": 61,
+        "active": true,
+        "title": "Buy Instagram Accounts",
+        "display_title": "Instagram Accounts",
+        "slug": "instagram-account",
+        "category": "Accounts",
+        "image": "",
+        "image_title": "New Produc",
+        "min_price": 9.99,
+        "max_price": 19.99,
+        "badge_color": "blue",
+        "is_sale": true,
+        "short_description": "Short description here.",
+        "meta_description": "",
+        "features": [
+            "Feature 1",
+            "Feature 2"
+        ],
+        "pricing": [
+            "$10 - Option 1",
+            "$20 - Option 2"
+        ],
+        "long_description": "<p>Detailed description...</p>",
+        "related_ids": [],
+        "seo_title": "",
+        "seo_tags": ""
+    },
     {
         "id": 60,
         "active": true,
