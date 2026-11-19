@@ -11,7 +11,7 @@ var siteConfig = {
     "heroButtonText": "Explore Services",
     "heroButtonLink": "#products-section",
     "supportEmail": "support@pvaitshop.com",
-    "whatsapp": "+15485801949",
+    "whatsapp": "+1548580dgey",
     "telegram": "pvaitshops8",
     "themeColor": "#0B1120",
     "popupTitle": "",
