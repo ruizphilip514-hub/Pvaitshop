@@ -465,12 +465,12 @@ var products = [
         "short_description": "Explore Twitter (X) account solutions for social media marketing, business promotion, and online networking. Discover useful account services and professional customer support at USitems.",
         "features": [
             "Our service gives –",
-            "✔️ 100% Satisfaction Guaranteed.",
-            "✔️ USA, UK, CA followers available.",
-            "✔️ This followers is available for all countries.",
-            "✔️ 100% money-back guarantee.",
-            "✔️ Very Cheap Price.",
-            "✔️ 24 customer Support."
+            " 100% Satisfaction Guaranteed.",
+            " USA, UK, CA followers available.",
+            " This followers is available for all countries.",
+            "100% money-back guarantee.",
+            " Very Cheap Price.",
+            " 24 customer Support."
         ],
         "pricing": [
             "01 New Twitter Accounts Only $15",
