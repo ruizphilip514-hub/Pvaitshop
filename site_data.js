@@ -96,6 +96,13 @@ var categories = [
         "items": [
             "Verified Binance Accounts"
         ]
+    },
+    {
+        "name": "E-commerce",
+        "slug": " ecommerce-marketplace",
+        "description": "Explore e-commerce services at Pvaitshop.com. Discover online business resources, e-commerce platforms, digital payment solutions, and tools to support your online store and business growth.",
+        "content": "<h1>Explore E-commerce Services at Pvaitshop.com</h1><p>Welcome to the E-commerce category at Pvaitshop.com, your destination for exploring digital commerce services, online business resources, and e-commerce solutions.</p><h2>Discover E-commerce Solutions</h2><p>E-commerce has transformed how businesses sell products and services online. From managing online stores to processing digital payments, modern e-commerce tools help businesses create convenient shopping experiences.</p><h2>Popular E-commerce Categories</h2><ul><li>Online Store Platforms</li><li>E-commerce Accounts</li><li>Digital Payment Solutions</li><li>Online Business Tools</li><li>E-commerce Management Resources</li><li>Marketplace Services</li></ul><h2>Why Explore Pvaitshop.com?</h2><p>Pvaitshop.com makes it easier to discover different digital services in one convenient place. Explore available categories and find resources that match your online business needs.</p><h2>Build Your Online Business</h2><p>Whether you are starting an online store, managing an established business, or exploring digital commerce opportunities, Pvaitshop.com helps you discover useful e-commerce resources.</p><p>Explore our E-commerce category today!</p><p><strong> </strong></p>",
+        "items": []
     }
 ];
 
