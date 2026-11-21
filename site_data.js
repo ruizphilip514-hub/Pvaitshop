@@ -197,7 +197,7 @@ var products = [
         "image": "",
         "image_title": "Buy USA Gmail Accounts",
         "min_price": 4,
-        "max_price": 149.99,
+        "max_price": 150,
         "badge_color": "blue",
         "is_sale": true,
         "short_description": " Explore Gmail account registration, USA account settings, email verification, Google services, and secure email management with Pvaitshop.com.",
