@@ -338,7 +338,7 @@ var products = [
         "display_title": "USA Gmail Accounts",
         "slug": "usa-gmail-accounts",
         "category": "Email",
-        "image": "/images/products/Buy USA Gmail Accounts.webp",
+        "image": "/images/products/Title.webp",
         "image_title": "Buy USA Gmail Accounts",
         "min_price": 4,
         "max_price": 150,
