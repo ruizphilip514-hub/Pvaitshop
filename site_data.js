@@ -65,8 +65,8 @@ var categories = [
         "content": "<p><br></p>",
         "items": [
             " Facebook Account",
-            "Verified PayPal Accounts",
-            "Verified Tinder Account"
+            "Verified Tinder Account",
+            "Verified PayPal Accounts"
         ]
     },
     {
@@ -381,8 +381,8 @@ var products = [
         "display_title": "Verified PayPal Accounts",
         "slug": "verified-paypal-accounts",
         "category": "Accounts",
-        "image": "/images/products/buy verified paypal  account.webp",
-        "image_title": "Buy Verified PayPal Accounts",
+        "image": "/images/products/buy verified paypalaccount.webp",
+        "image_title": "Verified PayPal Accounts",
         "min_price": 130,
         "max_price": 150,
         "badge_color": "blue",
