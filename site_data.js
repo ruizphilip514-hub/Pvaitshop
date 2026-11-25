@@ -110,9 +110,9 @@ var categories = [
         "description": "Explore email services at Pvaitshop.com. Discover Gmail, Outlook, Yahoo Mail, business email solutions, and digital communication resources in one convenient place.",
         "content": "<h1>Explore Email Services at Pvaitshop.com</h1><p>Welcome to the Email category at Pvaitshop.com, your destination for exploring email services, digital communication resources, and business email solutions.</p><h2>Discover Popular Email Platforms</h2><p>Email is an essential tool for personal communication, professional networking, and online business management. Explore resources related to popular email platforms and digital communication services.</p><h2>Popular Email Categories</h2><ul><li><strong>Gmail:</strong> Explore Gmail-related services and resources.</li><li><strong>Outlook:</strong> Discover Microsoft Outlook email solutions.</li><li><strong>Yahoo Mail:</strong> Explore Yahoo Mail resources.</li><li><strong>Business Email:</strong> Discover professional email solutions.</li><li><strong>Bulk Email:</strong> Explore email management resources.</li><li><strong>Email Security:</strong> Learn about email protection and account security.</li></ul><h2>Why Choose Pvaitshop.com?</h2><p>Pvaitshop.com makes discovering digital services simple and convenient. Explore different email categories and find resources that match your communication and business needs.</p><h2>Explore Email Solutions</h2><p>Whether you need personal email resources, professional communication tools, or business email solutions, our Email category helps you discover useful digital resources.</p><p>Visit Pvaitshop.com and explore our Email category today.</p><p><strong> </strong></p>",
         "items": [
-            "iCloud Accounts",
-            "Yahoo Accounts",
             "Edu Email Accounts",
+            "Yahoo Accounts",
+            "iCloud Accounts",
             "USA Gmail Accounts"
         ]
     }
@@ -197,7 +197,7 @@ var products = [
         "display_title": "Edu Email Accounts",
         "slug": "edu-email-accounts",
         "category": "Email",
-        "image": "/images/products/buy edu email accounts.webp",
+        "image": "/images/products/edu.webp",
         "image_title": "Buy Edu Email Accounts",
         "min_price": 7,
         "max_price": 140,
@@ -238,7 +238,7 @@ var products = [
         "display_title": "Yahoo Accounts",
         "slug": "yahoo-accounts",
         "category": "Email",
-        "image": "",
+        "image": "/images/products/buy yahoo account.webp",
         "image_title": "Buy Yahoo Accounts",
         "min_price": 7,
         "max_price": 100,
@@ -289,7 +289,7 @@ var products = [
         "display_title": "iCloud Accounts",
         "slug": "icloud-accounts",
         "category": "Email",
-        "image": "",
+        "image": "/images/products/buy icloud account.webp",
         "image_title": " Buy iCloud Accounts",
         "min_price": 7,
         "max_price": 70,
@@ -338,7 +338,7 @@ var products = [
         "display_title": "USA Gmail Accounts",
         "slug": "usa-gmail-accounts",
         "category": "Email",
-        "image": "/images/products/Title.webp",
+        "image": "/images/products/buy usa gmail account.webp",
         "image_title": "Buy USA Gmail Accounts",
         "min_price": 4,
         "max_price": 150,
