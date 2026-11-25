@@ -75,7 +75,6 @@ var categories = [
         "description": "Explore social media services at Pvaitshop.com. Discover solutions for Facebook, Instagram, Twitter, Telegram, TikTok, and other popular social platforms. Find digital tools and social media resources to support your online presence and business growth.",
         "content": "<p>Welcome to the Social Media category at Pvaitshop.com, your destination for exploring digital social media solutions and resources. We cover popular platforms, including Facebook, Instagram, Twitter (X), Telegram, TikTok, LinkedIn, and more.</p><h3>Discover Popular Social Media Platforms</h3><p>Social media plays an important role in modern communication, digital marketing, and online business development. Whether you are a content creator, entrepreneur, marketer, or business owner, finding the right social media resources can help you build and manage your online presence.</p><p>Our Social category covers a variety of social media platforms and digital services, helping visitors explore available solutions in one convenient place.</p><h3>Popular Social Media Categories</h3><ul><li><strong>Facebook:</strong> Explore Facebook-related digital services and resources.</li><li><strong>Instagram:</strong> Discover Instagram solutions for creators and businesses.</li><li><strong>Twitter (X):</strong> Explore resources for building your online presence.</li><li><strong>Telegram:</strong> Find Telegram-related digital tools and services.</li><li><strong>TikTok:</strong> Discover solutions for content creators and digital marketers.</li><li><strong>LinkedIn:</strong> Explore professional networking resources.</li><li><strong>Other Social Platforms:</strong> Discover additional social media tools and services.</li></ul><h3>Why Explore Pvaitshop.com?</h3><p>At Pvaitshop.com, we aim to make discovering digital services simple and convenient. Our goal is to provide an organized platform where users can explore different categories, compare available services, and find solutions that match their digital needs.</p><h3>Grow Your Digital Presence</h3><p>Whether you are managing a personal brand, developing a business, or exploring new digital opportunities, Pvaitshop.com makes it easier to discover social media resources in one place.</p>",
         "items": [
-            "Instagram Accounts",
             "TextNow Accounts",
             "Telegram Accounts",
             "LinkedIn Accounts",
@@ -83,7 +82,8 @@ var categories = [
             " Twitter Accounts",
             "GitHub Account",
             "Facebook Video Selfie",
-            "SSN Number"
+            "SSN Number",
+            "Instagram Accounts"
         ]
     },
     {
@@ -938,7 +938,7 @@ var products = [
         "display_title": "Instagram Accounts",
         "slug": "instagram-account",
         "category": "Social",
-        "image": "",
+        "image": "/images/products/Instagram Accounts.webp",
         "image_title": "New Produc",
         "min_price": 9.99,
         "max_price": 19.99,
