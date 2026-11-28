@@ -923,7 +923,7 @@ var products = [
         "display_title": "Verified Apple Pay Accounts",
         "slug": "verified-apple-pay-accounts",
         "category": "Reviews",
-        "image": "/images/products/verified-apple-pay-accounts(1).webp",
+        "image": "/images/products/_Verified veriried apple pay Accounts (1).webp",
         "image_title": "Buy Verified Apple Pay Accounts",
         "min_price": 250,
         "max_price": 400,
