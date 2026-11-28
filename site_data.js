@@ -66,6 +66,7 @@ var categories = [
         "items": [
             " Facebook Account",
             "Verified PayPal Accounts",
+            "Verified Cash App Account",
             "Verified Tinder Account"
         ]
     },
@@ -1389,7 +1390,7 @@ var products = [
         "title": "Buy Verified Cash App Account",
         "display_title": "Verified Cash App Account",
         "slug": "verified-cashapp-account",
-        "category": "",
+        "category": "Accounts",
         "image": "",
         "image_title": "Buy Verified Cash App Profiles – ID-Verified Accounts with BTC & Transfer Access",
         "min_price": 140,
