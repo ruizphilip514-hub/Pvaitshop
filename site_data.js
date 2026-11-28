@@ -84,7 +84,8 @@ var categories = [
             "Instagram Accounts",
             "Facebook Video Selfie",
             " Twitter Accounts",
-            "GitHub Account"
+            "GitHub Account",
+            "Verified WeChat Account"
         ]
     },
     {
@@ -1426,7 +1427,7 @@ var products = [
         "title": "Buy Verified WeChat Account",
         "display_title": "Verified WeChat Account",
         "slug": "verified-wechat-account",
-        "category": "",
+        "category": "Social",
         "image": "",
         "image_title": "Buy Verified WeChat Account – Pre-Registered WeChat Profiles for International Business Communication | PvaitShop",
         "min_price": 30,
