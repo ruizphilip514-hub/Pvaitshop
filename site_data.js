@@ -107,8 +107,8 @@ var categories = [
             " Google Play Developer Accounts",
             "AliExpress Seller Accounts",
             "Walmart Seller Accounts",
-            "Etsy Seller Accounts",
-            "eBay Seller Accounts"
+            "eBay Seller Accounts",
+            "Etsy Seller Accounts"
         ]
     },
     {
@@ -437,7 +437,7 @@ var products = [
         "display_title": "Etsy Seller Accounts",
         "slug": "etsy-seller-accounts",
         "category": "E-commerce",
-        "image": "/images/products/_Esty Seller Accounts (2).webp",
+        "image": "/images/products/etsy-seller-accounts.webp",
         "image_title": "Buy Etsy Seller Accounts",
         "min_price": 190,
         "max_price": 490,
